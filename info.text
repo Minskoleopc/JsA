@@ -1,0 +1,9 @@
+
+git init 
+git add .
+git commit -m "added"
+git push
+git log 
+git show HEAD 
+git status 
+git diff
