@@ -7,3 +7,4 @@ git log
 git show HEAD 
 git status 
 git diff
+git checkout HEAD fileName --> making working directory same  last commit
